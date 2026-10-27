@@ -1,0 +1,5 @@
+{
+  "name": "inventory-backend",
+  "version-string": "1.0.0",
+  "dependencies": ["crow", "asio", "sqlite3", "nlohmann-json"]
+}

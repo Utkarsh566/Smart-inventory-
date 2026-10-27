@@ -1,0 +1,9 @@
+supplierId,name,email,phone,address
+S001,Tech Supplies Pvt Ltd,techsupplies@example.com,9876543210,"Pune, Maharashtra"
+S002,Digital World Distributors,digitalworld@example.com,9876501234,"Mumbai, Maharashtra"
+S003,Computer Hub Suppliers,computerhub@example.com,9867001122,"Nashik, Maharashtra"
+S004,Prime Office Solutions,primeoffice@example.com,9856003344,"Nagpur, Maharashtra"
+S005,SmartTech Wholesale,smarttech@example.com,9845005566,"Bengaluru, Karnataka"
+S006,Network Pro Distributors,networkpro@example.com,9834007788,"Hyderabad, Telangana"
+S007,Gadget Source India,gadgetsource@example.com,9823009900,"Delhi, India"
+S008,Elite Electronics Supply,eliteelectronics@example.com,9812001122,"Ahmedabad, Gujarat"

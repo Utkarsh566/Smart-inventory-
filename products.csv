@@ -1,0 +1,31 @@
+productId,name,category,price,stock,minimumStock,supplierId
+P001,Wireless Mouse,Electronics,599,42,10,S001
+P002,Mechanical Keyboard,Electronics,2499,25,8,S001
+P003,24-inch Monitor,Electronics,8999,12,5,S002
+P004,USB-C Cable,Accessories,399,65,15,S003
+P005,Webcam,Electronics,1999,7,10,S002
+P006,Laptop Stand,Accessories,1299,28,8,S004
+P007,Bluetooth Speaker,Electronics,1799,22,7,S005
+P008,Wireless Headphones,Electronics,2999,18,6,S005
+P009,HDMI Cable,Accessories,499,55,12,S003
+P010,USB Hub,Accessories,899,34,10,S003
+P011,External SSD 500GB,Computer Components,4499,16,5,S002
+P012,External SSD 1TB,Computer Components,7499,11,4,S002
+P013,8GB DDR4 RAM,Computer Components,1899,20,6,S003
+P014,16GB DDR4 RAM,Computer Components,3299,14,5,S003
+P015,Wi-Fi Router,Networking,2499,19,6,S006
+P016,Ethernet Cable,Networking,299,80,20,S006
+P017,Network Switch 8-Port,Networking,1599,13,5,S006
+P018,Laser Printer,Office Equipment,8999,9,4,S004
+P019,Wireless Printer,Office Equipment,10999,8,3,S004
+P020,Printer Ink Black,Office Equipment,999,26,8,S004
+P021,Printer Ink Color,Office Equipment,1299,21,7,S004
+P022,Laptop Backpack,Accessories,1499,31,8,S007
+P023,Power Bank 20000mAh,Electronics,1699,24,7,S007
+P024,USB Flash Drive 64GB,Accessories,699,45,12,S007
+P025,USB Flash Drive 128GB,Accessories,1099,36,10,S007
+P026,Webcam Cover,Accessories,199,70,20,S008
+P027,Desk Lamp,Office Equipment,899,29,8,S008
+P028,Surge Protector,Electronics,1199,23,7,S008
+P029,Cooling Pad,Computer Components,1399,17,5,S005
+P030,Portable SSD 1TB,Computer Components,8299,10,4,S005
